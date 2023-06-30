@@ -12,9 +12,7 @@ on:
   push:
     branches:
     - master
-    
-permissions:
-  actions: write  
+
 
 jobs:
   generate:
